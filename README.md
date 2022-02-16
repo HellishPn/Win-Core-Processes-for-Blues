@@ -1,5 +1,5 @@
 # Win-Core-Processes-for-Blue-Teams
-i've made two mind maps for lovely blue Threat Hunters to have All Windows processes specification in one file (Mindmap) to easily look for suspicous ones and hunt them as fast as possible !
+i've made two mind maps for lovely blue Threat Hunters to have All Windows processes specification in one file (Mindmap) to easily identify suspicous ones and hunt them as fast as possible !
 <br>
 Dear Red teams can also use this to update there thechniques ..
 <ul>
