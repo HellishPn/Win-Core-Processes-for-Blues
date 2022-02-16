@@ -17,5 +17,5 @@ Dear Red teams can also use this to update there thechniques ..
  <li>dwm.exe</li>
 </ul>
 <img src="https://user-images.githubusercontent.com/86436070/154306993-6555c554-f732-4ec8-9dbd-15e56ec2a714.png">
-<img src="https://user-images.githubusercontent.com/86436070/154307008-412784cc-4db6-454e-a933-c125ab970eef.png ?width=480&height=270"?width=480&height=270>
+<img src="https://user-images.githubusercontent.com/86436070/154307008-412784cc-4db6-454e-a933-c125ab970eef.png">
 
